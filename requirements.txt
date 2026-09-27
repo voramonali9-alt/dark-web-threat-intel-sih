@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+neo4j
+scikit-learn
+torch
+pandas
+faker
+python-dotenv

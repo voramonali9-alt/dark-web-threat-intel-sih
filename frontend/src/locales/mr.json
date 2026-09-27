@@ -1,0 +1,17 @@
+{
+  "appTitle": "शॉप-सिंक लॉगिन",
+  "phoneLabel": "फोन नंबर",
+  "phonePlaceholder": "उदा: 9876543210",
+  "passwordLabel": "पासवर्ड",
+  "passwordPlaceholder": "पासवर्ड टाका",
+  "loginBtn": "लॉगिन करा",
+  "newAccount": "नवीन खाते तयार करायचे? येथे क्लिक करा",
+  "createAccount": "नवीन खाते तयार करा",
+  "nameLabel": "तुमचे नाव",
+  "namePlaceholder": "पूर्ण नाव",
+  "roleLabel": "तुम्ही कोण आहात?",
+  "registerBtn": "नोंदणी करा",
+  "alreadyAccount": "आधीच खाते आहे? लॉगिन करा",
+  "shopkeeper": "दुकानदार",
+  "customer": "ग्राहक"
+}

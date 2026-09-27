@@ -1,0 +1,17 @@
+{
+  "appTitle": "શોપ-સિંક લૉગિન",
+  "phoneLabel": "ફોન નંબર",
+  "phonePlaceholder": "જેમ કે: 9876543210",
+  "passwordLabel": "પાસવર્ડ",
+  "passwordPlaceholder": "પાસવર્ડ દાખલ કરો",
+  "loginBtn": "લૉગિન કરો",
+  "newAccount": "નવું ખાતું બનાવવું છે? અહીં ક્લિક કરો",
+  "createAccount": "નવું ખાતું બનાવો",
+  "nameLabel": "તમારું નામ",
+  "namePlaceholder": "પૂરું નામ લખો",
+  "roleLabel": "તમે કોણ છો?",
+  "registerBtn": "રજિસ્ટર કરો",
+  "alreadyAccount": "પહેલેથી ખાતું છે? લૉગિન કરો",
+  "shopkeeper": "દુકાનદાર",
+  "customer": "ગ્રાહક"
+}

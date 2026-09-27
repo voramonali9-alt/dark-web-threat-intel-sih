@@ -1,0 +1,17 @@
+{
+  "appTitle": "ShopSync Login",
+  "phoneLabel": "Phone Number",
+  "phonePlaceholder": "e.g. 9876543210",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "loginBtn": "Login",
+  "newAccount": "Don't have an account? Click here",
+  "createAccount": "Create New Account",
+  "nameLabel": "Your Name",
+  "namePlaceholder": "Full name",
+  "roleLabel": "Who are you?",
+  "registerBtn": "Register Now",
+  "alreadyAccount": "Already have an account? Login",
+  "shopkeeper": "Shopkeeper",
+  "customer": "Customer"
+}
